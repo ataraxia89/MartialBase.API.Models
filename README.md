@@ -1,2 +1,2 @@
-# MartialBase.API.Models
-Please see the [wiki](https://github.com/ataraxia89/MartialBase-DTOs/wiki) for guides on how to use the MartialBase® API.
+## MartialBase.API.Models
+A collection of models and tools used by both the MartialBase API and web portal
